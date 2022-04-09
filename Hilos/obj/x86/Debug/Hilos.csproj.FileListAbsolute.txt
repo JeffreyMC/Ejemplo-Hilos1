@@ -1,0 +1,6 @@
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Hilos\Hilos\bin\Debug\Hilos.exe
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Hilos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Hilos\Hilos\obj\x86\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Hilos\Hilos\obj\x86\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Hilos\Hilos\obj\x86\Debug\Hilos.exe
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Hilos\Hilos\obj\x86\Debug\Hilos.pdb
