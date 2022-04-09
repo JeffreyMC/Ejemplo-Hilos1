@@ -4,4 +4,4 @@ Este ejemplo muestra la creación y manejo de hilos. Se crean tres hilos y se im
 
 ## Captura
 
-![Captura](CAPTURA.PNG)
+![Captura](Captura.PNG)
